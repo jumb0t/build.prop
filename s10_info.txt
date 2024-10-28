@@ -1,0 +1,1347 @@
+<<< Система >>>
+
+Модель устройства: Samsung Galaxy S10 (Global)
+Кодовое название устройства: Beyond 1
+Тип устройства: Фаблет
+Производитель: samsung
+Модель: SM-G973F
+Бренд: samsung
+Плата: exynos9820
+Устройство: beyond1
+Аппаратура: exynos9820
+Платформа: universal9820
+Продукт: beyond1lteeea
+ОЗУ: 8 ГБ LPDDR4X
+Всего памяти: 7419 МБ
+Доступная память: 3541 МБ
+Всего во внутреннем хранилище: 109,95 ГБ
+Свободно во внутреннем хранилище: 48,65 ГБ
+Версия Bluetooth: 5.0
+Функции устройства: android.hardware.audio.low_latency
+android.hardware.audio.output
+android.hardware.audio.pro
+android.hardware.bluetooth
+android.hardware.bluetooth_le
+android.hardware.camera
+android.hardware.camera.any
+android.hardware.camera.ar
+android.hardware.camera.autofocus
+android.hardware.camera.capability.manual_post_processing
+android.hardware.camera.capability.manual_sensor
+android.hardware.camera.capability.raw
+android.hardware.camera.concurrent
+android.hardware.camera.flash
+android.hardware.camera.front
+android.hardware.camera.level.full
+android.hardware.faketouch
+android.hardware.fingerprint
+android.hardware.keystore.limited_use_key
+android.hardware.location
+android.hardware.location.gps
+android.hardware.location.network
+android.hardware.microphone
+android.hardware.nfc
+android.hardware.nfc.any
+android.hardware.nfc.ese
+android.hardware.nfc.hce
+android.hardware.nfc.hcef
+android.hardware.nfc.uicc
+android.hardware.opengles.aep
+android.hardware.ram.normal
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.se.omapi.ese
+android.hardware.se.omapi.uicc
+android.hardware.security.model.compatible
+android.hardware.sensor.accelerometer
+android.hardware.sensor.barometer
+android.hardware.sensor.compass
+android.hardware.sensor.gyroscope
+android.hardware.sensor.heartrate
+android.hardware.sensor.hifi_sensors
+android.hardware.sensor.light
+android.hardware.sensor.proximity
+android.hardware.sensor.stepcounter
+android.hardware.sensor.stepdetector
+android.hardware.telephony
+android.hardware.telephony.gsm
+android.hardware.telephony.ims
+android.hardware.telephony.ims.singlereg
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.accessory
+android.hardware.usb.host
+android.hardware.vulkan.compute
+android.hardware.vulkan.level
+android.hardware.vulkan.version
+android.hardware.wifi
+android.hardware.wifi.aware
+android.hardware.wifi.direct
+android.hardware.wifi.passpoint
+android.software.activities_on_secondary_displays
+android.software.app_enumeration
+android.software.app_widgets
+android.software.autofill
+android.software.backup
+android.software.cant_save_state
+android.software.companion_device_setup
+android.software.connectionservice
+android.software.controls
+android.software.cts
+android.software.device_admin
+android.software.file_based_encryption
+android.software.freeform_window_management
+android.software.home_screen
+android.software.input_methods
+android.software.ipsec_tunnels
+android.software.live_wallpaper
+android.software.managed_users
+android.software.midi
+android.software.opengles.deqp.level
+android.software.picture_in_picture
+android.software.print
+android.software.secure_lock_screen
+android.software.securely_removes_users
+android.software.sip
+android.software.sip.voip
+android.software.verified_boot
+android.software.voice_recognizers
+android.software.vulkan.deqp.level
+android.software.webview
+com.google.android.feature.DPS
+com.google.android.feature.EEA_DEVICE
+com.google.android.feature.TURBO_PRELOAD
+com.google.android.paid.chrome
+com.google.android.paid.search
+com.nxp.mifare
+com.samsung.android.api.version.2402
+com.samsung.android.api.version.2403
+com.samsung.android.api.version.2501
+com.samsung.android.api.version.2502
+com.samsung.android.api.version.2601
+com.samsung.android.api.version.2701
+com.samsung.android.api.version.2801
+com.samsung.android.api.version.2802
+com.samsung.android.api.version.2803
+com.samsung.android.api.version.2901
+com.samsung.android.api.version.2902
+com.samsung.android.api.version.29
+03
+com.samsung.android.api.version.3001
+com.samsung.android.api.version.3002
+com.samsung.android.api.version.3101
+com.samsung.android.authfw
+com.samsung.android.authfw.tahal
+com.samsung.android.bio.face
+com.samsung.android.camerasdkservice
+com.samsung.android.cameraxservice
+com.samsung.android.knox.knoxsdk
+com.samsung.android.knox.knoxsdk.api.level.33
+com.samsung.android.knox.knoxsdk.api.level.34
+com.samsung.android.knox.knoxsdk.api.level.35
+com.samsung.android.sdk.camera.processor
+com.samsung.android.sdk.camera.processor.effect
+com.samsung.feature.SAMSUNG_EXPERIENCE
+com.samsung.feature.aodservice_v09
+com.samsung.feature.aremoji.v2
+com.samsung.feature.device_category_phone
+com.samsung.feature.galaxyfinder_v7
+com.samsung.feature.ipsgeofence
+com.samsung.feature.samsung_experience_mobile
+com.samsung.feature.samsungpositioning
+com.samsung.feature.samsungpositioning.snlp
+com.sec.android.secimaging
+com.sec.android.smartface.smart_stay
+com.sec.feature.cocktailpanel
+com.sec.feature.cover
+com.sec.feature.cover.clearcover
+com.sec.feature.cover.flip
+com.sec.feature.cover.ledbackcover
+com.sec.feature.cover.nfcledcover
+com.sec.feature.cover.sview
+com.sec.feature.motionrecognition_service
+com.sec.feature.nfc_authentication
+com.sec.feature.nfc_authentication_cover
+com.sec.feature.nsflp
+com.sec.feature.pocketmode
+com.sec.feature.saccessorymanager
+com.sec.feature.sensorhub
+com.sec.feature.spo2
+com.sec.feature.usb_authentication
+com.sec.feature.wirelesscharger_authentication
+
+<<< ЦП >>>
+
+Модель SoC: Samsung Exynos 9 (9820)
+Архитектура ядра: 4x ARM Cortex-A55 @ 1950 МГц
+2x ARM Cortex-A75 @ 2314 МГц
+2x Samsung Exynos M4 @ 2730 МГц
+Технологический процесс: 8 нм
+Наборы инструкций: 64-bit ARMv8-A
+Ревизия ЦП: r1p0
+Число ядер ЦП: 8
+Диапазон частот ЦП: 442 - 2730 МГц
+Частота ядра 1: 1053 МГц
+Частота ядра 2: 1053 МГц
+Частота ядра 3: 1053 МГц
+Частота ядра 4: 1053 МГц
+Частота ядра 5: 962 МГц
+Частота ядра 6: 962 МГц
+Частота ядра 7: 1820 МГц
+Частота ядра 8: 1820 МГц
+Регулятор загрузки: schedutil
+Поддерживаемые ABI: arm64-v8a, armeabi-v7a, armeabi
+Поддерживаемые 32-бит ABI: armeabi-v7a, armeabi
+Поддерживаемые 64-бит ABI: arm64-v8a
+AES: Поддерживается
+ASIMD/NEON: Поддерживается
+PMULL: Поддерживается
+SHA1: Поддерживается
+SHA2: Поддерживается
+
+<<< Отображение >>>
+
+Разрешение экрана: 1440 × 3040
+Технология: Dynamic AMOLED
+Размер экрана: 66 мм × 140 мм
+Диагональ экрана: 6,1 дюйм(а,ов)
+Плотность пикселов: 551 dpi (xxxhdpi)
+xdpi / ydpi: 554 / 552 dpi
+Производитель ГП: ARM
+Рендерер ГП: Mali-G76
+Текущая частота ГП: 156 МГц
+Диапазон частот ГП: 156 - 702 МГц
+Загрузка ГП: 9 %
+Регулятор загрузки: Interactive
+Частота обновления: 60 Гц
+Стандартная ориентация: Книжная
+Версия OpenGL ES: 3.2
+Версия ГП: OpenGL ES 3.2 v1.r32p1-01bet2-mbs2v39_0.131801e953429f661ecce1d5e1d2b3ef
+Расширения OpenGL ES: GL_EXT_debug_marker
+GL_ARM_rgba8
+GL_ARM_mali_shader_binary
+GL_OES_depth24
+GL_OES_depth_texture
+GL_OES_depth_texture_cube_map
+GL_OES_packed_depth_stencil
+GL_OES_rgb8_rgba8
+GL_EXT_read_format_bgra
+GL_OES_compressed_paletted_texture
+GL_OES_compressed_ETC1_RGB8_texture
+GL_OES_standard_derivatives
+GL_OES_EGL_image
+GL_OES_EGL_image_external
+GL_OES_EGL_image_external_essl3
+GL_OES_EGL_sync
+GL_OES_texture_npot
+GL_OES_vertex_half_float
+GL_OES_required_internalformat
+GL_OES_vertex_array_object
+GL_OES_mapbuffer
+GL_EXT_texture_format_BGRA8888
+GL_EXT_texture_rg
+GL_EXT_texture_type_2_10_10_10_REV
+GL_OES_fbo_render_mipmap
+GL_OES_element_index_uint
+GL_EXT_shadow_samplers
+GL_OES_texture_compression_astc
+GL_KHR_texture_compression_astc_ldr
+GL_KHR_texture_compression_astc_hdr
+GL_KHR_texture_compression_astc_sliced_3d
+GL_EXT_texture_compression_astc_decode_mode
+GL_EXT_texture_compression_astc_decode_mode_rgb9e5
+GL_KHR_debug
+GL_EXT_occlusion_query_boolean
+GL_EXT_disjoint_timer_query
+GL_EXT_blend_minmax
+GL_EXT_discard_framebuffer
+GL_OES_get_program_binary
+GL_OES_texture_3D
+GL_EXT_texture_storage
+GL_EXT_multisampled_render_to_texture
+GL_EXT_multisampled_render_to_texture2
+GL_OES_surfaceless_context
+GL_OES_texture_stencil8
+GL_EXT_shader_pixel_local_storage
+GL_ARM_shader_framebuffer_fetch
+GL_ARM_shader_f
+ramebuffer_fetch_depth_stencil
+GL_ARM_mali_program_binary
+GL_EXT_sRGB
+GL_EXT_sRGB_write_control
+GL_EXT_texture_sRGB_decode
+GL_EXT_texture_sRGB_R8
+GL_EXT_texture_sRGB_RG8
+GL_KHR_blend_equation_advanced
+GL_KHR_blend_equation_advanced_coherent
+GL_OES_texture_storage_multisample_2d_array
+GL_OES_shader_image_atomic
+GL_EXT_robustness
+GL_EXT_draw_buffers_indexed
+GL_OES_draw_buffers_indexed
+GL_EXT_texture_border_clamp
+GL_OES_texture_border_clamp
+GL_EXT_texture_cube_map_array
+GL_OES_texture_cube_map_array
+GL_OES_sample_variables
+GL_OES_sample_shading
+GL_OES_shader_multisample_interpolation
+GL_EXT_shader_io_blocks
+GL_OES_shader_io_blocks
+GL_EXT_tessellation_shader
+GL_OES_tessellation_shader
+GL_EXT_primitive_bounding_box
+GL_OES_primitive_bounding_box
+GL_EXT_geometry_shader
+GL_OES_geometry_shader
+GL_ANDROID_extension_pack_es31a
+GL_EXT_gpu_shader5
+GL_OES_gpu_shader5
+GL_EXT_texture_buffer
+GL_OES_texture_buffer
+GL_EXT_copy_image
+GL_OES_copy_image
+GL_EXT_shader_non_constant_global_initializers
+GL_EXT_color_buffer_half_float
+GL_EXT_unpack_subimage
+GL_EXT_color_buffer_float
+GL_EXT_YUV_target
+GL_OVR_multiview
+GL_OVR_multiview2
+GL_OVR_multiview_multisampled_render_to_texture
+GL_KHR_robustness
+GL_KHR_robust_buffer_access_behavior
+GL_EXT_draw_elements_base_vertex
+GL_OES_draw_elements_base_vertex
+GL_EXT_protected_textures
+GL_EXT_buffer_storage
+GL_EXT_external_buffer
+GL_EXT_EGL_image_array
+GL_EXT_texture_filter_anisotropic
+GL_ARM_texture_unnormalized_coordinates
+
+<<< Сеть >>>
+
+<< Телефония >>
+Тип телефона: GSM
+Сетевой оператор: MegaFon #1
+Код сетевого оператора: 25002
+Страна сетевого оператора: Россия
+Провайдер SIM: MegaFon #1
+Код провайдера SIM: 25001
+Страна провайдера SIM: Россия
+Состояние SIM: Готов
+Тип сети: Неизвестно
+Состояние передачи данных: Отключено
+Активность данных: Нет
+Устройство в роуминге: Нет
+ICC-карта: Есть
+
+<< Wi-Fi >>
+Состояние: Разрешено
+SSID: <unknown ssid>
+BSSID: 02:00:00:00:00:00
+Скрытый SSID: Нет
+IPv4-адрес: 192.168.1.66
+IPv6-адрес: fe80::fcd7:fff:fe26:fa65
+Сигнал: -59 дБм (Очень хороший)
+Скорость связи: 526 Мбит/с
+Частота: 5240 МГц
+Шлюз: 192.168.1.254
+Маска сети: 255.255.255.0
+DNS1: 192.168.1.254
+Длительность аренды DHCP: 24 ч
+Полоса 5 ГГц: Поддерживается
+Wi-Fi Aware: Поддерживается
+Wi-Fi Direct: Поддерживается
+
+<<< Батарея >>>
+
+Источник питания: Батарея
+Уровень: 75 %
+Статус: Разряжается
+Здоровье: Хорошо
+Технология: Li-ion
+Температура: 36,0°C
+Напряжение питания: 4,029 V
+Оставшийся заряд: 2471 мА·ч
+Скорость разрядки: 388 мА
+Оставшееся время работы от батареи: N/A
+Ёмкость (отчёт Android): 3300 мА·ч
+Ёмкость (из базы данных): 3400 мА·ч
+
+<<< Android >>>
+
+Версия Android: 12 (Snow Cone)
+Уровень API: 31
+Уровень патча безопасности Android: 2023-03-01
+Устройство с Root-доступом: Нет
+Android ID: 23e42dbf21349ae8
+Основная полоса: G973FXXSGHWC2,G973FXXSGHWC2
+Загрузчик: G973FXXSGHWC2
+ID сборки: SP1A.210812.016.G973FXXSGHWC2
+Кодовое имя: REL
+Идентификатор сборки: samsung/beyond1lteeea/beyond1:12/SP1A.210812.016/G973FXXSGHWC2:user/release-keys
+ID: SP1A.210812.016
+Инкрементно: G973FXXSGHWC2
+Версия Java Runtime: Android Runtime 0.9
+Версия Java VM: ART 2.1.0
+Размер кучи Java VM: 256 МБ
+Архитектура ядра: aarch64
+Версия ядра: 4.14.113-25257816
+Теги: release-keys
+Тип: user
+Версия сервисов Google Play: 24.40.35 (190400-683445800)
+Версия сервисов Huawei Mobile: < Нет >
+Версия OpenSSL: OpenSSL 1.1.1 (compatible; BoringSSL)
+Версия ZLib: 1.2.11
+Версия ICU CLDR: 38.1
+Версия библиотеки ICU: 68.2
+Unicode-версия ICU: 13.0
+Язык Android: русский (Россия)
+Настроенный часовой пояс: Москва, стандартное время (UTC+03:00)
+Время работы: 33 дн., 02:34:24
+
+<<< Устройства >>>
+
+<< Задняя камера >>
+Разрешение: 12 Мп (4032 × 3024)
+Фокусное расстояние: 4,32 мм
+Режимы фокусировки: infinity, auto, continuous-video, continuous-picture
+Снимок из видео: Поддерживается
+Стабилизация видео: Поддерживается
+Зум: Поддерживается
+Блокировка автоэкспозиции: Поддерживается
+Блокировка автобаланса белого: Поддерживается
+Вспышка: Поддерживается
+
+<< Передняя камера >>
+Разрешение: 11 Мп (4320 × 2432)
+Фокусное расстояние: 3,30 мм
+Режимы фокусировки: infinity, auto, continuous-video, co
+
+ntinuous-picture
+Снимок из видео: Поддерживается
+Стабилизация видео: Поддерживается
+Зум: Поддерживается
+Блокировка автоэкспозиции: Поддерживается
+Блокировка автобаланса белого: Поддерживается
+Вспышка: Не поддерживается
+
+<< Задняя камера >>
+Разрешение: 16 Мп (4608 × 3456)
+Фокусное расстояние: 1,80 мм
+Режимы фокусировки: fixed, infinity
+Снимок из видео: Поддерживается
+Стабилизация видео: Поддерживается
+Зум: Поддерживается
+Блокировка автоэкспозиции: Поддерживается
+Блокировка автобаланса белого: Поддерживается
+Вспышка: Не поддерживается
+
+<< Передняя камера >>
+Разрешение: 11 Мп (4320 × 2432)
+Фокусное расстояние: 3,30 мм
+Режимы фокусировки: infinity, auto, continuous-video, continuous-picture
+Снимок из видео: Поддерживается
+Стабилизация видео: Поддерживается
+Зум: Поддерживается
+Блокировка автоэкспозиции: Поддерживается
+Блокировка автобаланса белого: Поддерживается
+Вспышка: Не поддерживается
+
+<< Сканер отпечатков пальцев >>
+Производитель: QCOM
+Модель: QBT2000
+
+<< Vulkan-устройство - Mali-G76 >>
+Имя устройства: Mali-G76
+Тип устройства: Встроенный ГП
+UUID устройства: AA-FE-B7-7B-EF-E5-1D-17-16-FA-20-4D-65-E1-1E-B7
+ID устройства: 000013B5-72110000
+Объём памяти: 7136936 КБ
+Макс. размер 1D-картинки: 16384
+Макс. размер 2D-картинки: 16384 x 16384
+Макс. размер 3D-картинки: 16384 x 16384 x 16384
+Макс. размер картинки куба: 16384 x 16384
+Макс. слоёв картинки: 4096
+Макс. элементов тексельного буфера: 268435456
+Макс. диапазон равномерного буфера: 65536
+Max Storage Buffer Range: 268435456
+Max Push Constants Size: 256 байт
+Buffer Image Granularity: 4 КБ
+Max Bound Descriptor Sets: 4
+Max Per-Stage Descriptor Samplers: 128
+Max Per-Stage Descriptor Uniform Buffers: 36
+Max Per-Stage Descriptor Storage Buffers: 35
+Max Per-Stage Descriptor Sampled Images: 256
+Max Per-Stage Descriptor Storage Images: 21
+Max Per-Stage Descriptor Input Attachments: 9
+Max Per-Stage Resources: 365
+Max Descriptor Set Samplers: 768
+Max Descriptor Set Uniform Buffers: 216
+Max Descriptor Set Dynamic Uniform Buffers: 32
+Max Descriptor Set Storage Buffers: 210
+Max Descriptor Set Dynamic Storage Buffers: 32
+Max Descriptor Set Sampled Images: 1536
+Max Descriptor Set Storage Images: 126
+Max Descriptor Set Input Attachments: 9
+Max Vertex Input Attributes: 32
+Max Vertex Input Bindings: 32
+MaxVertex Input Attribute Offset: 2047
+Max Vertex Input Binding Stride: 2048
+Max Vertex Output Components: 128
+Max Tesselation Generation Level: 64
+Max Tesselation Patch Size: 32
+Max Tesselation Control Per-Vertex Input Components: 128
+Max Tesselation Control Per-Vertex Output Components: 128
+Max Tesselation Control Per-Patch Output Components: 120
+Max Tesselation Control Total Output Components: 4096
+Max Tesselation Evaluation Input Components: 128
+Max Tesselation Evaluation Output Components: 128
+Max Geometry Shader Invocations: 32
+Max Geometry Input Components: 64
+Max Geometry Output Components: 128
+Max Geometry Output Vertices: 256
+Max Geometry Total Output Components: 1024
+Max Fragment Input Components: 128
+Max Fragment Output Attachments: 8
+Max Fragment Combined Output Resources: 64
+Max Compute Shared Memory Size: 32 КБ
+Max Compute Work Group Invocations: 384
+Max Compute Work Group Size: X: 384, Y: 384, Z: 384
+Subpixel Precision Bits: 8
+Subtexel Precision Bits: 8
+Mipmap Precision Bits: 8
+Max Draw Indexed Index Value: 4294967295
+Max Draw Indirect Count: 1
+Max Sampler LOD Bias: 255,000000
+Max Sampler Anisotropy: 16,000000
+Max Viewports: 1
+Max Viewport Size: 16384 x 16384
+Viewport Bounds Range: -32768,000000 ... 32767,000000
+Min Memory Map Alignment: 64 байт
+Min Texel Buffer Offset Alignment: 64 байт
+Min Uniform Buffer Offset Alignment: 16 байт
+Min Storage Buffer Offset Alignment: 64 байт
+Min / Max Texel Offset: -8 / 7
+Min / Max Texel Gather Offset: -8 / 7
+Min / Max Interpolation Offset: -0,500000 / 0,500000
+Subpixel Interpolation Offset Bits: 4
+Max Framebuffer Size: 16384 x 16384
+Max Framebuffer Layers: 256
+Framebuffer Color Sample Counts: 0x0000000D
+Framebuffer Depth Sample Counts: 0x0000000D
+Framebuffer Stencil Sample Counts: 0x0000000D
+Framebuffer No Attachments Sample Counts: 0x0000001D
+M
+
+ax Color Attachments: 8
+Sampled Image Color Sample Counts: 0x0000000D
+Sampled Image Integer Sample Counts: 0x0000000D
+Sampled Image Depth Sample Counts: 0x0000000D
+Sampled Image Stencil Sample Counts: 0x0000000D
+Storage Image Sample Counts: 0x00000001
+Max Sample Mask Words: 1
+Timestamp Period: 38,461540 нс
+Discrete Queue Priorities: 2
+Point Size Range: 1,000000 ... 1024,000000
+Line Width Range: 1,000000 ... 1,000000
+Point Size Granularity: 0,062500
+Optimal Buffer Copy Offset Alignment: 64 байт
+Optimal Buffer Copy Row Pitch Alignment: 64 байт
+Non-Coherent Atom Size: 64 байт
+Версия драйвера: 32.1.0
+Версия API: 1.1.177
+Библиотека Vulkan: /system/lib64/libvulkan.so
+Alpha To One: Не поддерживается
+Anisotropic Filtering: Поддерживается
+ASTC LDR Texture Compression: Поддерживается
+BC Texture Compression: Не поддерживается
+Depth Bias Clamping: Поддерживается
+Depth Bounds Tests: Не поддерживается
+Depth Clamping: Не поддерживается
+Draw Indirect First Instance: Поддерживается
+Dual Source Blend Operations: Не поддерживается
+ETC2 and EAC Texture Compression: Поддерживается
+Fragment Stores and Atomics: Поддерживается
+Full Draw Index Uint32: Поддерживается
+Geometry Shader: Поддерживается
+Image Cube Array: Поддерживается
+Independent Blend: Поддерживается
+Inherited Queries: Не поддерживается
+Large Points: Поддерживается
+Logic Operations: Не поддерживается
+Multi-Draw Indirect: Не поддерживается
+Multi Viewport: Не поддерживается
+Occlusion Query Precise: Поддерживается
+Pipeline Statistics Query: Не поддерживается
+Point and Wireframe Fill Modes: Не поддерживается
+Robust Buffer Access: Поддерживается
+Sample Rate Shading: Поддерживается
+Shader Clip Distance: Не поддерживается
+Shader Cull Distance: Не поддерживается
+Shader Float64: Не поддерживается
+Shader Image Gather Extended: Поддерживается
+Shader Int16: Поддерживается
+Shader Int64: Не поддерживается
+Shader Resource Min LOD: Не поддерживается
+Shader Resource Residency: Не поддерживается
+Shader Sampled Image Array Dynamic Indexing: Поддерживается
+Shader Storage Buffer Array Dynamic Indexing: Поддерживается
+Shader Storage Image Array Dynamic Indexing: Поддерживается
+Shader Storage Image Extended Formats: Поддерживается
+Shader Storage Image Multisample: Не поддерживается
+Shader Storage Image Read Without Format: Поддерживается
+Shader Storage Image Write Without Format: Поддерживается
+Shader Tesselation and Geometry Point Size: Не поддерживается
+Shader Uniform Buffer Array Dynamic Indexing: Поддерживается
+Sparse Binding: Не поддерживается
+Sparse Residency 2 Samples: Не поддерживается
+Sparse Residency 4 Samples: Не поддерживается
+Sparse Residency 8 Samples: Не поддерживается
+Sparse Residency 16 Samples: Не поддерживается
+Sparse Residency Aliased: Не поддерживается
+Sparse Residency Aligned Mip Size: Нет
+Sparse Residency Buffer: Не поддерживается
+Sparse Residency Image 2D: Не поддерживается
+Sparse Residency Image 3D: Не поддерживается
+Sparse Residency Non-Resident Strict: Нет
+Sparse Residency Standard 2D Block Shape: Нет
+Sparse Residency Standard 2D Multisample Block Shape: Нет
+Sparse Residency Standard 3D Block Shape: Нет
+Standard Sample Locations: Да
+Strict Line Rasterization: Да
+Tesselation Shader: Поддерживается
+Timestamps on All Graphics and Compute Queues: Поддерживается
+Variable Multisample Rate: Не поддерживается
+Vertex Pipeline Stores and Atomics: Не поддерживается
+Wide Lines: Не поддерживается
+Расширения устройства: VK_KHR_incremental_present
+VK_EXT_hdr_metadata
+VK_KHR_shared_presentable_image
+VK_GOOGLE_display_timing
+VK_KHR_16bit_storage
+VK_KHR_8bit_storage
+VK_KHR_bind_memory2
+VK_KHR_buffer_device_address
+VK_KHR_create_renderpass2
+VK_KHR_dedicated_allocation
+VK_KHR_depth_stencil_resolve
+VK_KHR_descriptor_update_template
+VK_KHR_device_group
+VK_KHR_driver_properties
+VK_KHR_external_fence
+VK_KHR_external_fence_fd
+VK_KHR_external_memory
+VK_KHR_external_memory_fd
+VK_KHR_external_semaphore
+VK_KHR_external_semaphore_fd
+VK_KHR_get_memory_requirements2
+VK_KHR_image_format_list
+VK_KHR_imageless_framebuffer
+VK_KHR_maintenance1
+VK_KHR_maintenance2
+VK_KHR_maintenance3
+VK_KHR_multiview
+VK_KHR_relaxed_
+
+
+block_layout
+VK_KHR_sampler_mirror_clamp_to_edge
+VK_KHR_sampler_ycbcr_conversion
+VK_KHR_separate_depth_stencil_layouts
+VK_KHR_shader_draw_parameters
+VK_KHR_shader_float16_int8
+VK_KHR_shader_float_controls
+VK_KHR_shader_non_semantic_info
+VK_KHR_shader_subgroup_extended_types
+VK_KHR_spirv_1_4
+VK_KHR_storage_buffer_storage_class
+VK_KHR_timeline_semaphore
+VK_KHR_uniform_buffer_standard_layout
+VK_KHR_variable_pointers
+VK_KHR_vulkan_memory_model
+VK_EXT_astc_decode_mode
+VK_EXT_calibrated_timestamps
+VK_EXT_global_priority
+VK_EXT_host_query_reset
+VK_EXT_image_robustness
+VK_EXT_index_type_uint8
+VK_EXT_inline_uniform_block
+VK_EXT_line_rasterization
+VK_EXT_provoking_vertex
+VK_EXT_queue_family_foreign
+VK_EXT_device_memory_report
+VK_EXT_scalar_block_layout
+VK_EXT_separate_stencil_usage
+VK_EXT_subgroup_size_control
+VK_EXT_texture_compression_astc_hdr
+VK_EXT_shader_subgroup_ballot
+VK_EXT_shader_subgroup_vote
+VK_EXT_transform_feedback
+VK_EXT_external_memory_dma_buf
+VK_EXT_image_drm_format_modifier
+VK_EXT_custom_border_color
+VK_ANDROID_external_memory_android_hardware_buffer
+VK_KHR_swapchain
+VK_EXT_4444_formats
+Расширения экземпляра: VK_KHR_surface
+VK_KHR_android_surface
+VK_EXT_swapchain_colorspace
+VK_KHR_get_surface_capabilities2
+VK_EXT_debug_report
+VK_KHR_device_group_creation
+VK_KHR_external_fence_capabilities
+VK_KHR_external_memory_capabilities
+VK_KHR_external_semaphore_capabilities
+VK_KHR_get_physical_device_properties2
+
+Нет USB-устройств.
+Нет устройств OpenCL.
+Нет устройств CUDA.
+Нет PCI-устройств.
+
+<<< Температура >>>
+
+Батарея: 36,0°C
+
+<<< Датчики >>>
+
+LSM6DSO Acceleration Sensor: 
+LSM6DSO Gyroscope Sensor: 
+Uncalibrated Magnetic Sensor: 
+AK09918C Magnetic field Sensor: 
+LPS22H Barometer Sensor: 
+TMD4910 Proximity Sensor: 
+TCS3407 lux Sensor: 
+SAMSUNG Step Detector Sensor: 
+SAMSUNG Significant Motion Sensor: 
+Gyroscope sensor UnCalibrated: 
+Samsung Game Rotation Vector: 
+Samsung Rotation Vector: 
+SAMSUNG Step Counter Sensor: 
+TCS3407 RGB IR Sensor: 
+Interrupt Gyroscope Sensor: 
+SAMSUNG Tilt Detector: 
+SAMSUNG Pick Up Gesture: 
+TCS3407 RGB Sensor: 
+Acceleration Sensor UnCalibrated: 
+SAMSUNG Thermistor Sensor: 
+SAMSUNG Wake Up Motion: 
+SAMSUNG Move Nomove Detector: 
+SAMSUNG Call Gesture: 
+Touch Proximity Sensor: 
+TCS3407 Uncalibrated lux Sensor: 
+SAMSUNG Pocket Mode: 
+SAMSUNG Led Cover Event: 
+AutoRotation Sensor: 
+SarBackoffMotion Sensor: 
+SAMSUNG Hall IC: 
+SContext: 
+MAX86915 HRM RAW: 
+MAX86915 Rear ALS: 
+MAX86915 Rear PROX: 
+MAX86915 IR: 
+MAX86915 RED: 
+MAX86915 GREEN: 
+MAX86915 BLUE: 
+MAX86915 REAR SVC LED RED: 
+MAX86915 REAR SVC LED GREEN: 
+MAX86915 REAR SVC LED BLUE: 
+SX9330 Grip Sensor: 
+Grip Notifier Sensor: 
+Calibrated Lux Sensor: 
+Palm Proximity Sensor: 5,0 cm
+Ear call-gesture state: 
+HRM Sensor: 
+HeartRate Sensor: 
+Motion Sensor: 
+Auto Brightness (Rear Lux): 
+Gravity Sensor: 
+Linear Acceleration Sensor: 
+Orientation Sensor: 
+
+<<< Приложения >>>
+
+
+<<< Кодеки >>>
+
+c2.sec.amrnb.decoder: audio/3gpp
+c2.sec.amrwb.decoder: audio/amr-wb
+c2.sec.ape.decoder: audio/x-ape
+c2.sec.flac.decoder: audio/flac
+c2.sec.ima.decoder: audio/x-ima
+c2.sec.mp3.decoder: audio/mpeg
+audio/mpeg-L1
+audio/mpeg-L2
+c2.sec.mp43.decoder: video/mp43
+c2.sec.vc1.decoder: video/wvc1
+video/x-ms-wmv
+c2.sec.wma.decoder: audio/x-ms-wma
+c2.sec.wmv7.decoder: video/x-ms-wmv7
+c2.sec.wmv8.decoder: video/x-ms-wmv8
+c2.dolby.ac4.decoder: audio/ac4
+OMX.dolby.ac4.decoder: audio/ac4
+c2.dolby.eac3.decoder: audio/ac3
+audio/eac3
+audio/eac3-joc
+c2.android.aac.decoder: audio/mp4a-latm
+OMX.google.aac.decoder: audio/
+
+
+mp4a-latm
+c2.android.aac.encoder: audio/mp4a-latm
+OMX.google.aac.encoder: audio/mp4a-latm
+c2.android.amrnb.decoder: audio/3gpp
+OMX.google.amrnb.decoder: audio/3gpp
+c2.android.amrnb.encoder: audio/3gpp
+OMX.google.amrnb.encoder: audio/3gpp
+c2.android.amrwb.decoder: audio/amr-wb
+OMX.google.amrwb.decoder: audio/amr-wb
+c2.android.amrwb.encoder: audio/amr-wb
+OMX.google.amrwb.encoder: audio/amr-wb
+c2.android.flac.decoder: audio/flac
+OMX.google.flac.decoder: audio/flac
+c2.android.flac.encoder: audio/flac
+OMX.google.flac.encoder: audio/flac
+c2.android.g711.alaw.decoder: audio/g711-alaw
+OMX.google.g711.alaw.decoder: audio/g711-alaw
+c2.android.g711.mlaw.decoder: audio/g711-mlaw
+OMX.google.g711.mlaw.decoder: audio/g711-mlaw
+c2.android.gsm.decoder: audio/gsm
+OMX.google.gsm.decoder: audio/gsm
+c2.android.mp3.decoder: audio/mpeg
+OMX.google.mp3.decoder: audio/mpeg
+c2.android.opus.decoder: audio/opus
+OMX.google.opus.decoder: audio/opus
+c2.android.opus.encoder: audio/opus
+c2.android.raw.decoder: audio/raw
+OMX.google.raw.decoder: audio/raw
+c2.android.vorbis.decoder: audio/vorbis
+OMX.google.vorbis.decoder: audio/vorbis
+c2.sec.aac.decoder: audio/mp4a-latm
+c2.sec.aac.encoder: audio/mp4a-latm
+OMX.Exynos.avc.dec: video/avc
+OMX.Exynos.h263.dec: video/3gpp
+OMX.Exynos.hevc.dec: video/hevc
+OMX.Exynos.mpeg4.dec: video/mp4v-es
+OMX.Exynos.vp8.dec: video/x-vnd.on2.vp8
+OMX.Exynos.vp9.dec: video/x-vnd.on2.vp9
+OMX.Exynos.AVC.Encoder: video/avc
+OMX.Exynos.AVC.Encoder.secure: wfd/avc
+OMX.Exynos.AVC.WFD.Encoder: wfd/avc
+OMX.Exynos.AVC.WFD.Encoder.secure: wfd/avc
+OMX.Exynos.H263.Encoder: video/3gpp
+OMX.Exynos.HEVC.Encoder: video/hevc
+OMX.Exynos.HEVC.WFD.Encoder: wfd/hevc
+OMX.Exynos.HEVC.WFD.Encoder.secure: wfd/hevc
+OMX.Exynos.MPEG4.Encoder: video/mp4v-es
+OMX.Exynos.VP8.Encoder: video/x-vnd.on2.vp8
+OMX.Exynos.VP9.Encoder: video/x-vnd.on2.vp9
+c2.sec.mpeg4.decoder: video/mp4v-es
+c2.android.av1.decoder: video/av01
+c2.android.avc.decoder: video/avc
+OMX.google.h264.decoder: video/avc
+c2.android.avc.encoder: video/avc
+OMX.google.h264.encoder: video/avc
+c2.android.h263.decoder: video/3gpp
+OMX.google.h263.decoder: video/3gpp
+c2.android.h263.encoder: video/3gpp
+OMX.google.h263.encoder: video/3gpp
+c2.android.hevc.decoder: video/hevc
+OMX.google.hevc.decoder: video/hevc
+c2.android.hevc.encoder: video/hevc
+c2.android.mpeg4.decoder: video/mp4v-es
+OMX.google.mpeg4.decoder: video/mp4v-es
+c2.android.mpeg4.encoder: video/mp4v-es
+OMX.google.mpeg4.encoder: video/mp4v-es
+c2.android.vp8.decoder: video/x-vnd.on2.vp8
+OMX.google.vp8.decoder: video/x-vnd.on2.vp8
+c2.android.vp8.encoder: video/x-vnd.on2.vp8
+OMX.google.vp8.encoder: video/x-vnd.on2.vp8
+c2.android.vp9.decoder: video/x-vnd.on2.vp9
+OMX.google.vp9.decoder: video/x-vnd.on2.vp9
+c2.android.vp9.encoder: video/x-vnd.on2.vp9
+OMX.google.vp9.encoder: video/x-vnd.on2.vp9
+
+<<< Папки >>>
+
+Данные: /data
+Корень: /system
+Java: /system
+Содержимое загрузки/кэша: /data/cache
+
+<< Внешнее хранилище >>
+
+
+<< Точки монтирования >>
+/: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/dev: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/dev/pts: Устройство: devpts
+Файловая система: devpts
+Чтение-запись
+/dev/cpuctl: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/dev/cpuset: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/dev/memcg: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/dev/stune: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/dev/freezer: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/dev/usb-ffs/adb: Устройство: adb
+Файловая система: functionfs
+Чтение-запись
+/dev/usb-ffs/mtp: Устройс
+
+
+тво: mtp
+Файловая система: functionfs
+Чтение-запись
+/dev/usb-ffs/ptp: Устройство: ptp
+Файловая система: functionfs
+Чтение-запись
+/proc: Устройство: proc
+Файловая система: proc
+Чтение-запись
+/sys: Устройство: sysfs
+Файловая система: sysfs
+Чтение-запись
+/sys/fs/selinux: Устройство: selinuxfs
+Файловая система: selinuxfs
+Чтение-запись
+/sys/fs/cgroup: Устройство: none
+Файловая система: cgroup2
+Чтение-запись
+/sys/kernel/tracing: Устройство: tracefs
+Файловая система: tracefs
+Чтение-запись
+/sys/kernel/debug: Устройство: /sys/kernel/debug
+Файловая система: debugfs
+Чтение-запись
+/sys/kernel/debug/tracing: Устройство: tracefs
+Файловая система: tracefs
+Чтение-запись
+/sys/fs/fuse/connections: Устройство: none
+Файловая система: fusectl
+Чтение-запись
+/sys/fs/bpf: Устройство: bpf
+Файловая система: bpf
+Чтение-запись
+/sys/fs/pstore: Устройство: pstore
+Файловая система: pstore
+Чтение-запись
+/mnt: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/mnt/installer: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/mnt/installer/0/emulated: Устройство: /dev/fuse
+Файловая система: fuse
+Чтение-запись
+/mnt/installer/0/emulated/0/Android/data: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/installer/0/emulated/0/Android/obb: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/androidwritable: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/mnt/androidwritable/0/emulated: Устройство: /dev/fuse
+Файловая система: fuse
+Чтение-запись
+/mnt/androidwritable/0/emulated/0/Android/data: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/androidwritable/0/emulated/0/Android/obb: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/sde: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/mnt/vendor/efs: Устройство: /dev/block/by-name/efs
+Файловая система: ext4
+Чтение-запись
+/mnt/vendor/cpefs: Устройство: /dev/block/platform/13d60000.ufs/by-name/cpefs
+Файловая система: ext4
+Чтение-запись
+/mnt/runtime/default/emulated: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/runtime/read/emulated: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/runtime/write/emulated: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/runtime/full/emulated: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/user/0/emulated: Устройство: /dev/fuse
+Файловая система: fuse
+Чтение-запись
+/mnt/user/0/emulated/0/Android/data: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/user/0/emulated/0/Android/obb: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/mnt/pass_through/0/emulated: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/product: Устройство: /dev/block/dm-1
+Файловая система: ext4
+Неизменяемый
+/product/etc/permissions: Устройство: /dev/block/dm-1
+Файловая система: ext4
+Неизменяемый
+/product/etc/sysconfig: Устройство: /dev/block/dm-1
+Файловая система: ext4
+Неизменяемый
+/vendor: Устройство: /dev/block/dm-2
+Файловая система: ext4
+Неизменяемый
+/apex: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/apex/com.android.adbd: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.appsearch: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.art: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.conscrypt: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.extservices: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.i18n: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.ipsec: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.media: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.media.swcodec: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.mediaprovider: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.neuralnetworks: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.os.s
+
+
+
+
+
+
+tatsd: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.permission: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.resolv: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.runtime: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.scheduling: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.sdkext: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.tethering: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.tzdata: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.vndk.v31: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.android.wifi: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.samsung.android.ipm: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/apex/com.samsung.android.shell: Устройство: /dev/root
+Файловая система: ext4
+Неизменяемый
+/linkerconfig: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/linkerconfig: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/acct: Устройство: none
+Файловая система: cgroup
+Чтение-запись
+/config: Устройство: none
+Файловая система: configfs
+Чтение-запись
+/cache: Устройство: /dev/block/by-name/cache
+Файловая система: ext4
+Чтение-запись
+/data: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/user/0: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/keydata: Устройство: /dev/block/platform/13d60000.ufs/by-name/keydata
+Файловая система: ext4
+Чтение-запись
+/keyrefuge: Устройство: /dev/block/platform/13d60000.ufs/by-name/keyrefuge
+Файловая система: ext4
+Чтение-запись
+/efs: Устройство: /dev/block/platform/13d60000.ufs/by-name/sec_efs
+Файловая система: ext4
+Чтение-запись
+/omr: Устройство: /dev/block/by-name/omr
+Файловая система: ext4
+Чтение-запись
+/data_mirror: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data_mirror/data_ce/null: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data_mirror/data_ce/null/0: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data_mirror/data_de/null: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data_mirror/cur_profiles: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data_mirror/ref_profiles: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/storage: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/storage/emulated: Устройство: /dev/fuse
+Файловая система: fuse
+Чтение-запись
+/storage/emulated/0/Android/data: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/storage/emulated/0/Android/obb: Устройство: /data/media
+Файловая система: sdcardfs
+Чтение-запись
+/data/data: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data/user: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data/user_de: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data/user_de/0/com.finalwire.aida64: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/data/com.finalwire.aida64: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/user_de/0/com.google.android.gms: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/data/com.google.android.gms: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/misc/profiles/cur: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data/misc/profiles/ref: Устройство: tmpfs
+Файловая система: tmpfs
+Чтение-запись
+/data/misc/profiles/cur/0/com.finalwire.aida64: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+/data/misc/profiles/ref/com.finalwire.aida64: Устройство: /dev/block/by-name/userdata
+Файловая система: ext4
+Чтение-запись
+
+<<< Системные файлы >>>
+
+Buddy-информация: /proc/buddyinfo
+Свойства сборки: /system/build.prop
+Символьные и блочные устройства: /proc/devices
+Коман
+
+
+дная строка: /proc/cmdline
+Сведения о ЦП: /proc/cpuinfo
+Домены выполнения: /proc/execdomains
+Файловые системы: /proc/filesystems
+Кадрово-буферные устройства: /proc/fb
+Хосты: /system/etc/hosts
+Прерывания: /proc/interrupts
+Устройства ввода: /proc/bus/input/devices
+Порты ввода-вывода: /proc/ioports
+Версия ядра: /proc/version
+Средняя загрузка: /proc/loadavg
+Заблокированные файлы: /proc/locks
+О памяти: /proc/meminfo
+Карта памяти: /proc/iomem
+Разные драйверы: /proc/misc
+Разделы: /proc/partitions
+Устройства PCI: /proc/bus/pci/devices
+Slab-информация: /proc/slabinfo
+Статистика: /proc/stat
+Обмен пространствами: /proc/swaps
+
+<<< /proc/cpuinfo >>>
+
+processor : 0
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0xd05
+CPU revision : 0
+
+processor : 1
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0xd05
+CPU revision : 0
+
+processor : 2
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0xd05
+CPU revision : 0
+
+processor : 3
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0xd05
+CPU revision : 0
+
+processor : 4
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x2
+CPU part : 0xd0a
+CPU revision : 1
+
+processor : 5
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x41
+CPU architecture: 8
+CPU variant : 0x2
+CPU part : 0xd0a
+CPU revision : 1
+
+processor : 6
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x53
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0x003
+CPU revision : 0
+
+processor : 7
+BogoMIPS : 52.00
+Features : fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm dcpop asimddp
+CPU implementer : 0x53
+CPU architecture: 8
+CPU variant : 0x1
+CPU part : 0x003
+CPU revision : 0
+
+
+<<< /proc/meminfo >>>
+
+MemTotal:        7597928 kB
+MemFree:          193200 kB
+MemAvailable:    3433028 kB
+Buffers:           67432 kB
+Cached:          3414472 kB
+SwapCached:       147828 kB
+Active:          2325536 kB
+Inactive:        2231116 kB
+Active(anon):    1169424 kB
+Inactive(anon):   391640 kB
+Active(file):    1156112 kB
+Inactive(file):  1839476 kB
+Unevictable:        3916 kB
+Mlocked:            3916 kB
+RbinTotal:        450560 kB
+RbinAlloced:           0 kB
+RbinPool:              0 kB
+RbinFree:              0 kB
+RbinCached:       450560 kB
+SwapTotal:       4194300 kB
+SwapFree:        2205804 kB
+Dirty:               160 kB
+Writeback:             0 kB
+AnonPages:       1521364 kB
+Mapped:          1452016 kB
+Shmem:             33028 kB
+Slab:             348528 kB
+SReclaimable:     119104 kB
+SUnreclaim:       229424 kB
+KernelStack:       70384 kB
+PageTables:       133196 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     7767984 kB
+Committed_AS:   127214116 kB
+VmallocTotal:   263061440 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         159744 kB
+CmaFree:               0 kB
+
+<<< Comment >>>
+
+Enter your comment here:
+
+
